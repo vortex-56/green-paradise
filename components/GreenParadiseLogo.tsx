@@ -7,7 +7,7 @@ interface LogoProps {
 const GreenParadiseLogo: React.FC<LogoProps> = ({ type }) => {
   if (type === 'hotel') {
     return (
-      <img src="/0L/GPH.svg" alt="Green Paradise Hotel Logo" className="h-24 mx-auto" />
+      <img src="0L/GPH.svg" alt="Green Paradise Hotel Logo" className="h-24 mx-auto" />
     );
   }
 
