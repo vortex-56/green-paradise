@@ -19,7 +19,7 @@ const GreenParadiseLogo: React.FC<LogoProps> = ({ type }) => {
 
   // Default 'main' logo
   return (
-    <img src="/0L/GP.svg" alt="Green Paradise Logo" className="h-10" />
+    <img src="0L/GP.svg" alt="Green Paradise Logo" className="h-10" />
   );
 };
 

@@ -207,7 +207,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("CABAÑA ALPINA GUANÁBANO"),
         name: { es: "CABAÑA ALPINA GUANÁBANO", en: "ALPINE CABIN GUANABANO" },
-        image: '/2CB/CB01.webp',
+        image: '2CB/CB01.webp',
         features: {
             es: ["Capacidad para 2 personas", "Cama de dos plazas", "Desayuno para dos personas", "No cuenta con TV", "Ventilador", "Baño propio", "1 Mesita de noche"],
             en: ["Capacity for 2 people", "Full-size bed", "Breakfast for two people", "No TV", "Fan", "Private bathroom", "1 bedside table"]
@@ -216,7 +216,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("CABAÑA ALPINA BUGANVILLA"),
         name: { es: "CABAÑA ALPINA BUGANVILLA", en: "ALPINE CABIN BUGANVILLA" },
-        image: '/2CB/CB02.webp',
+        image: '2CB/CB02.webp',
         features: {
             es: ["Capacidad para 2 personas", "Cama de 2 plazas", "Ventilador y aire acondicionado", "Baño externo para la habitación"],
             en: ["Capacity for 2 people", "Full-size bed", "Fan and air conditioning", "External bathroom for the room"]
@@ -225,7 +225,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("CABAÑA ALPINA NARANJO"),
         name: { es: "CABAÑA ALPINA NARANJO", en: "ALPINE CABIN NARANJO" },
-        image: '/2CB/CB03.webp',
+        image: '2CB/CB03.webp',
         features: {
             es: ["Capacidad para 2 personas", "Cama de 2 plazas", "Desayuno para 2", "Ventilador", "Baño propio", "Aire acondicionado"],
             en: ["Capacity for 2 people", "Full-size bed", "Breakfast for 2", "Fan", "Private bathroom", "Air conditioning"]
@@ -234,7 +234,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("HABITACIÓN CIPRÉS 1"),
         name: { es: "HABITACIÓN CIPRÉS 1", en: "CIPRES ROOM 1" },
-        image: '/2CB/CB04.webp',
+        image: '2CB/CB04.webp',
         features: {
             es: ["Capacidad para 2 personas", "1 cama de dos plazas", "Desayuno para dos", "Ventilador", "1 Frigobar", "Baño propio", "Amenities de baño", "No incluye TV", "No incluye Aire acondicionado"],
             en: ["Capacity for 2 people", "1 full-size bed", "Breakfast for two", "Fan", "1 Minibar", "Private bathroom", "Bath amenities", "Does not include TV", "Does not include Air conditioning"]
@@ -243,7 +243,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("HABITACIÓN CIPRÉS 2"),
         name: { es: "HABITACIÓN CIPRÉS 2", en: "CIPRES ROOM 2" },
-        image: '/2CB/CB05.webp',
+        image: '2CB/CB05.webp',
         features: {
             es: ["Capacidad para 2 personas", "Cama de 2 plazas", "Desayuno para 2 personas", "Aire acondicionado", "Baño propio", "Sala amueblada y Frigobar", "Agua caliente", "No incluye TV"],
             en: ["Capacity for 2 people", "Full-size bed", "Breakfast for 2 people", "Air conditioning", "Private bathroom", "Furnished living area and Minibar", "Hot water", "Does not include TV"]
@@ -252,7 +252,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("HABITACIÓN CIPRÉS 3"),
         name: { es: "HABITACIÓN CIPRÉS 3", en: "CIPRES ROOM 3" },
-        image: '/2CB/CB06.webp',
+        image: '2CB/CB06.webp',
         features: {
             es: ["Capacidad para 3 a 4 personas", "2 Camas de dos plazas", "Desayuno para cuatro personas", "Ventilador", "No cuenta con TV", "Aire acondicionado", "Ducha tina propia", "Baño propio"],
             en: ["Capacity for 3 to 4 people", "2 full-size beds", "Breakfast for four people", "Fan", "No TV", "Air conditioning", "Private bathtub", "Private bathroom"]
@@ -261,7 +261,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("HABITACIÓN COCOS 1"),
         name: { es: "HABITACIÓN COCOS 1", en: "COCOS ROOM 1" },
-        image: '/2CB/CB07.webp',
+        image: '2CB/CB07.webp',
         features: {
             es: ["Capacidad para 2 personas", "Cama Queen", "Desayuno para dos", "Aire acondicionado", "1 frigobar", "Terraza privada", "Baño propio con tina", "Amenities de baño", "Tina de Baño Externo", "No conta com TV"],
             en: ["Capacity for 2 people", "One Queen Bed", "Breakfast for two", "Air conditioning", "1 minibar", "Private terrace", "Private bathroom with tub", "Bath amenities", "External Bathtub", "No TV"]
@@ -270,7 +270,7 @@ export const bungalows: Bungalow[] = [
     {
         id: slugify("HABITACIÓN COCOS 2"),
         name: { es: "HABITACIÓN COCOS 2", en: "COCOS ROOM 2" },
-        image: '/2CB/CB08.webp',
+        image: '2CB/CB08.webp',
         features: {
             es: ["Capacidad para 4 personas", "Vista al Parque Nacional Tingo María", "2 camas de 2 plazas", "Desayuno para los integrantes", "Baño privado", "Aire acondicionado", "Closet"],
             en: ["Capacity for 4 people", "View of Tingo María National Park", "2 full-size beds", "Breakfast for guests", "Private bathroom", "Air conditioning", "Closet"]

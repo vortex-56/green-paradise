@@ -16,12 +16,12 @@ const heroBgImages = [
 
 // New array for hotel carousel images
 const hotelCarouselImages: ServiceItem[] = [
-    { id: 'ch01', name: { es: 'Habitación de Hotel 1', en: 'Hotel Room 1' }, image: '/1CH/CH01.webp' },
-    { id: 'ch02', name: { es: 'Habitación de Hotel 2', en: 'Hotel Room 2' }, image: '/1CH/CH02.webp' },
-    { id: 'ch03', name: { es: 'Habitación de Hotel 3', en: 'Hotel Room 3' }, image: '/1CH/CH03.webp' },
-    { id: 'ch04', name: { es: 'Habitación de Hotel 4', en: 'Hotel Room 4' }, image: '/1CH/CH04.webp' },
-    { id: 'ch05', name: { es: 'Habitación de Hotel 5', en: 'Hotel Room 5' }, image: '/1CH/CH05.webp' },
-    { id: 'ch06', name: { es: 'Habitación de Hotel 6', en: 'Hotel Room 6' }, image: '/1CH/CH06.webp' },
+    { id: 'ch01', name: { es: 'Habitación de Hotel 1', en: 'Hotel Room 1' }, image: '1CH/CH01.webp' },
+    { id: 'ch02', name: { es: 'Habitación de Hotel 2', en: 'Hotel Room 2' }, image: '1CH/CH02.webp' },
+    { id: 'ch03', name: { es: 'Habitación de Hotel 3', en: 'Hotel Room 3' }, image: '1CH/CH03.webp' },
+    { id: 'ch04', name: { es: 'Habitación de Hotel 4', en: 'Hotel Room 4' }, image: '1CH/CH04.webp' },
+    { id: 'ch05', name: { es: 'Habitación de Hotel 5', en: 'Hotel Room 5' }, image: '1CH/CH05.webp' },
+    { id: 'ch06', name: { es: 'Habitación de Hotel 6', en: 'Hotel Room 6' }, image: '1CH/CH06.webp' },
 ];
 
 
