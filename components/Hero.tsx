@@ -9,9 +9,9 @@ import { ServiceItem } from '../types';
 
 // Array of background images for the hero carousel
 const heroBgImages = [
-    '/0L/FH/FH01.webp',
-    '/0L/FH/FH02.webp',
-    '/0L/FH/FH03.webp',
+    '0L/FH/FH01.webp',
+    '0L/FH/FH02.webp',
+    '0L/FH/FH03.webp',
 ];
 
 // New array for hotel carousel images

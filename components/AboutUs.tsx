@@ -20,7 +20,7 @@ const AboutUs: React.FC = () => {
                         <img src="/3NP/NP01.webp" alt="Vista del hotel" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square"/>
                         <img src="/3NP/NP02.webp" alt="Interior de bungalow" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square mt-8"/>
                         <img src="/3NP/NP03.webp" alt="Piscina natural" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square"/>
-                        <img src="/3NP/NP04.webp" alt="Detalle de decoración" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square mt-8"/>
+                        <img src="3NP/NP04.webp" alt="Detalle de decoración" className="rounded-lg shadow-lg object-cover w-full h-full aspect-square mt-8"/>
                     </div>
                 </div>
             </div>

@@ -13,7 +13,7 @@ const GreenParadiseLogo: React.FC<LogoProps> = ({ type }) => {
 
   if (type === 'bungalow') {
     return (
-      <img src="/0L/GPB.svg" alt="Green Paradise Bungalows Logo" className="h-24 mx-auto" />
+      <img src="0L/GPB.svg" alt="Green Paradise Bungalows Logo" className="h-24 mx-auto" />
     );
   }
 
