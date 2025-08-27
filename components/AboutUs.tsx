@@ -1,5 +1,5 @@
 import React from 'react';
-import { useLanguage }'../contexts/LanguageContext';
+import { useLanguage } from '../contexts/LanguageContext';
 
 const AboutUs: React.FC = () => {
     const { content } = useLanguage();
